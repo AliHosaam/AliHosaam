@@ -26,6 +26,6 @@ Feel free to reach out to me via email at alihosam503@gmail.com. I'm open to col
 
 GitHub Repository
 
-You can explore my GitHub repository at github.com/alihosaam to view more of my projects and code samples.
+You can explore my GitHub repository at github.com/AliHosaam to view more of my projects and code samples.
 
 Thank you for visiting my portfolio. I look forward to connecting with you and discussing potential projects or collaborations!
