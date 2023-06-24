@@ -1,4 +1,4 @@
-Welcome to my developer portfolio! I am Ali Hosam, a passionate self-taught full-stack and app developer. I have extensive experience in creating web and mobile applications, and I'm always excited to take on new challenges and explore innovative technologies. I have completed high-quality online courses to enhance my skills and stay up-to-date with the latest industry trends. You can reach out to me at alihosam503@gmail.com.
+Welcome to my developer portfolio! I am Ali Hosam, a passionate self-taught full-stack and app developer. I have extensive experience in creating high quality web and mobile applications, and I'm always excited to take on new challenges and explore innovative technologies. I have completed high-quality online courses to enhance my skills and stay up-to-date with the latest industry trends. You can reach out to me at alihosam503@gmail.com.
 
 Skills
 
