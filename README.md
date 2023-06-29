@@ -29,14 +29,31 @@ Here are some of the notable projects I have worked on:
 3.Live Chat App: Implemented a real-time chat application using React, Node.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history.
 
 4.Photo Sharing App: A photo sharing app that allows users to capture, edit, and share their favorite moments with friends and family.
+
 Key Features:
-Camera integration for capturing high-quality photos within the app.
-Editing tools and filters to enhance and personalize images.
-Social sharing functionality to post photos on popular social media platforms.
-User profiles with the ability to follow other users and engage in social interactions.
-Explore section for discovering trending and inspiring photos.
-Search functionality for finding specific photos, photographers, and tags.
-Technologies Used: React Native, JavaScript, API integrations, image editing libraries.
+
+1.Camera integration for capturing high-quality photos within the app.
+
+2.Editing tools and filters to enhance and personalize images.
+
+3.Social sharing functionality to post photos on popular social media platforms.
+
+4.User profiles with the ability to follow other users and engage in social interactions.
+
+5.Explore section for discovering trending and inspiring photos.
+
+6.Search functionality for finding specific photos, photographers, and tags.
+
+Technologies Used:
+
+React Native
+
+JavaScript
+
+API integrations
+
+image editing libraries.
+
 
 5.Weather App: Developed a weather application using Angular and OpenWeatherMap API. Users can search for weather forecasts of different locations and view detailed information.
 
