@@ -32,9 +32,10 @@ Here are some of the notable projects I have worked on:
 
 5.Weather App: Developed a weather application using Angular and OpenWeatherMap API. Users can search for weather forecasts of different locations and view detailed information.
 
+and a lot more projects that I actually used my skills and gained experience through developing them.
+
 Contact Information
 
-and a lot more projects that I actually used my skills and gained experience through developing them.
 
 Feel free to reach out to me via email at alihosam503@gmail.com. I'm open to collaboration, full time jobs, or any inquiries you may have.
 
