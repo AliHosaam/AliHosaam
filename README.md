@@ -32,17 +32,17 @@ Here are some of the notable projects I have worked on:
 
 Key Features:
 
-1.Camera integration for capturing high-quality photos within the app.
+•Camera integration for capturing high-quality photos within the app.
 
-2.Editing tools and filters to enhance and personalize images.
+•Editing tools and filters to enhance and personalize images.
 
-3.Social sharing functionality to post photos on popular social media platforms.
+•Social sharing functionality to post photos on popular social media platforms.
 
-4.User profiles with the ability to follow other users and engage in social interactions.
+•User profiles with the ability to follow other users and engage in social interactions.
 
-5.Explore section for discovering trending and inspiring photos.
+•Explore section for discovering trending and inspiring photos.
 
-6.Search functionality for finding specific photos, photographers, and tags.
+•Search functionality for finding specific photos, photographers, and tags.
 
 Technologies Used:
 
