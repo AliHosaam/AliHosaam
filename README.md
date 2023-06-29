@@ -8,7 +8,7 @@ Skills
 
 •Database Technologies: MongoDB, MySQL, MS SQL
 
-•Mobile App Development: React Native, Android Studio with Java, Xcode with Swift
+•Mobile App Development: Advanced React Native with Advanced JS
 
 •Version Control: Git, GitHub
 
