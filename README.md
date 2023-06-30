@@ -55,7 +55,7 @@ API integrations
 image editing libraries.
 
 
-5.Advanced Weather App: Developed a weather application using Angular and OpenWeatherMap API. Users can search for weather forecasts of different locations and view detailed information.
+5.Advanced Weather App: Developed a weather application using React and OpenWeatherMap API. Users can search for weather forecasts of different locations and view detailed information.
 
 and a lot more projects that I actually used my skills and gained experience through developing them.
 
