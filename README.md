@@ -26,7 +26,7 @@ Here are some of the notable projects I have worked on:
 
 2.Crypto Price Tracker: Created a mobile app using React Native that tracks cryptocurrency prices in real-time. Users can view the latest prices, set alerts, and receive notifications for price changes.
 
-3.Live Chat App: Implemented a real-time chat application using React, Node.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history.
+3.Live Chat App: Implemented a real-time chat application using React, Node.js, Express.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history.
 
 4.Photo Sharing App: A photo sharing app that allows users to capture, edit, and share their favorite moments with friends and family.
 
