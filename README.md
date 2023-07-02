@@ -54,8 +54,7 @@ API integrations
 
 image editing libraries.
 
-
-5.Advanced Weather App: Developed a weather application using React and OpenWeatherMap API. Users can search for weather forecasts of different locations and view detailed information.
+5.E-commerce App: Developed a full-stack e-commerce application using (MongoDB, Express.js, React, and Node.js) and a set of packges such as (bcrypt, jwt, validator) and much more tech. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders.
 
 and a lot more projects that I actually used my skills and gained experience through developing them.
 
