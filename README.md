@@ -61,7 +61,7 @@ and a lot more projects that I actually used my skills and gained experience thr
 Contact Information
 
 
-Feel free to reach out to me via email at alihosam503@gmail.com. I'm open to collaboration, full time jobs, or any inquiries you may have.
+Feel free to reach out to me via email at ah5778902@gmail.com. I'm open to collaboration, full time jobs, or any inquiries you may have.
 
 GitHub Repository
 
