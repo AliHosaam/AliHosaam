@@ -4,7 +4,7 @@ Skills
 
 •Front-end Development: HTML, CSS, JavaScript, React, Next.js, Bootstrap and more
 
-•Back-end Development: Node.js, Express, PHP, Java and more
+•Back-end Development: Node.js, Express, PHP, Java, RESTful API Development, GraphQL API Development and more
 
 •Database Technologies: MongoDB, MySQL, MS SQL
 
