@@ -2,7 +2,7 @@ Welcome to my developer portfolio! I am Ali Hosam, a passionate self-taught full
 
 Skills
 
-•Front-end Development: HTML, CSS, JavaScript, React, Next.js, Bootstrap and more
+•Front-end Development: HTML, CSS, JavaScript, React, Next.js, Bootstrap, Redux, and more
 
 •Back-end Development: Node.js, Express, PHP, Java, RESTful API Development, GraphQL API Development and more
 
