@@ -19,6 +19,7 @@ const skills = {
   "Testing and Debugging": ["Jest", "Postman"]
 };
 
+
 Projects
 
 const codeEditorProject = {
@@ -43,15 +44,18 @@ const ecommerceAppProject = {
   description: "Developed a full-stack e-commerce application using (MongoDB, Express.js, React, and Node.js) and a set of packages such as (bcrypt, jwt, validator) and much more tech. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders."
 };
 
+
 Contact Information
 
 const contactMe = `Feel free to reach out to me via email at ${email}. I'm open to collaboration, full-time jobs, or any inquiries you may have.`;
+
 
 GitHub Repository
 
 const githubUsername = 'AliHosaam';
 
 const githubRepository = `You can explore my GitHub repository at github.com/${githubUsername} to view more of my projects and code samples.`;
+
 
 Thank You
 
