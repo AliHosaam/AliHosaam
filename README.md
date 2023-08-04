@@ -7,7 +7,7 @@ const email = 'ah5778902@gmail.com';
 
 const aboutMe = `I am ${fullName}, a passionate self-taught full-stack and app developer. I have extensive experience in creating high-quality web and mobile applications, and I'm always excited to take on new challenges and explore innovative technologies. I have completed high-quality online courses to enhance my skills and stay up-to-date with the latest industry trends. You can reach out to me at ${email}.`;
 
-## Skills
+Skills
 
 const skills = {
   "Front-end Development": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Bootstrap", "Redux", "and more"],
@@ -48,5 +48,10 @@ const contactMe = `Feel free to reach out to me via email at ${email}. I'm open 
 
 GitHub Repository
 
-const githubRepo = 'github.com/AliHosaam';
+const githubUsername = 'AliHosaam';
 
+const githubRepository = `You can explore my GitHub repository at github.com/${githubUsername} to view more of my projects and code samples.`;
+
+Thank You
+
+const thankYouMessage = `Thank you for visiting my portfolio. I look forward to connecting with you and discussing potential projects or collaborations!`;
