@@ -1,5 +1,6 @@
 # Welcome to My Developer Portfolio!
 
+```javascript
 const fullName = 'Ali Hosam';
 
 const email = 'ah5778902@gmail.com';
