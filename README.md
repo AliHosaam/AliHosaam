@@ -7,7 +7,7 @@ const email = 'ah5778902@gmail.com';
 
 const aboutMe = `I am ${fullName}, a passionate self-taught full-stack and app developer. I have extensive experience in creating high-quality web and mobile applications, and I'm always excited to take on new challenges and explore innovative technologies. I have completed high-quality online courses to enhance my skills and stay up-to-date with the latest industry trends. You can reach out to me at ${email}.`;
 
-Skills
+## Skills
 
 const skills = {
   "Front-end Development": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Bootstrap", "Redux", "and more"],
@@ -41,3 +41,12 @@ const photoSharingAppProject = {
 const ecommerceAppProject = {
   description: "Developed a full-stack e-commerce application using (MongoDB, Express.js, React, and Node.js) and a set of packages such as (bcrypt, jwt, validator) and much more tech. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders."
 };
+
+Contact Information
+
+const contactMe = `Feel free to reach out to me via email at ${email}. I'm open to collaboration, full-time jobs, or any inquiries you may have.`;
+
+GitHub Repository
+
+const githubRepo = 'github.com/AliHosaam';
+
