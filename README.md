@@ -11,7 +11,7 @@ const aboutMe = `I am ${fullName}, a passionate self-taught full-stack and app d
 Skills
 
 const skills = {
-  "Front-end Development": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Bootstrap", "TailwindCSS", "Styled Components", "Redux", "and more"],
+  "Front-end Development": ["HTML", "CSS", "JavaScript", "TypeScript", "SocketIO", "React", "Next.js", "Bootstrap", "TailwindCSS", "Styled Components", "Redux", "and more"],
   "Back-end Development": ["Node.js", "Express", "PHP", "Java", "RESTful API Development", "GraphQL API Development", "and more"],
   "Database Technologies": ["MongoDB", "MySQL", "MS SQL"],
   "Mobile App Development": ["Advanced React Native with Advanced JS"],
@@ -22,8 +22,8 @@ const skills = {
 
 Projects
 
-const codeEditorProject = {
-  description: "Developed a code editor web application using React and Node.js. The application provides a rich code editing experience with features such as syntax highlighting, auto-completion, and live preview."
+const discordCloneProject = {
+  description: "developed a comprehensive Discord clone web app using Next.js, TypeScript, and Tailwind CSS, incorporating a diverse range of packages and libraries. This project boasts essential features synonymous with Discord, such as real-time messaging, voice chat, server creation, channel management, user authentication, and a sleek, intuitive UI. The implementation of cutting-edge technologies ensures a seamless user experience, making it a robust and scalable alternative for online communication and collaboration."
 };
 
 const cryptoPriceTrackerProject = {
@@ -41,7 +41,7 @@ const photoSharingAppProject = {
 };
 
 const ecommerceAppProject = {
-  description: "Developed a full-stack e-commerce application using (MongoDB, Express.js, React, and Node.js) and a set of packages such as (bcrypt, jwt, validator) and much more tech. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders."
+  description: "Developed a full-stack e-commerce application using (Next.js, Typescript and Tailwind CSS) and a set of packages such as (bcrypt, jwt, validator) and much more techs. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders."
 };
 
 
