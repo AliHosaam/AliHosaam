@@ -22,7 +22,7 @@ const skills = {
 
 Projects
 
-const discordCloneProject = {
+const discordCloneWebAppProject = {
   description: "developed a comprehensive Discord clone web app using Next.js, TypeScript, and Tailwind CSS, incorporating a diverse range of packages and libraries. This project boasts essential features synonymous with Discord, such as real-time messaging, voice chat, server creation, channel management, user authentication, and a sleek, intuitive UI. The implementation of cutting-edge technologies ensures a seamless user experience, making it a robust and scalable alternative for online communication and collaboration."
 };
 
@@ -30,7 +30,7 @@ const cryptoPriceTrackerProject = {
   description: "Created a mobile app using React Native that tracks cryptocurrency prices in real-time. Users can view the latest prices, set alerts, and receive notifications for price changes."
 };
 
-const liveChatAppProject = {
+const liveChatWebAppProject = {
   description: "Implemented a real-time chat application using React, Node.js, Express.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history."
 };
 
@@ -40,7 +40,7 @@ const photoSharingAppProject = {
   technologiesUsed: ["React Native", "JavaScript", "API integrations", "image editing libraries."]
 };
 
-const ecommerceAppProject = {
+const ecommerceWebAppProject = {
   description: "Developed a full-stack e-commerce application using (Next.js, Typescript and Tailwind CSS) and a set of packages such as (bcrypt, jwt, validator) and much more techs. The app provides a complete online shopping experience with features such as product browsing, shopping cart management, user authentication, payment processing, order management, and admin panel for managing products and orders."
 };
 
