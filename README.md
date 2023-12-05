@@ -23,7 +23,7 @@ const skills = {
 Projects
 
 const discordCloneWebAppProject = {
-  description: "developed a comprehensive Discord clone web app using Next.js, TypeScript, and Tailwind CSS, incorporating a diverse range of packages and libraries. This project boasts essential features synonymous with Discord, such as real-time messaging, voice chat, server creation, channel management, user authentication, and a sleek, intuitive UI. The implementation of cutting-edge technologies ensures a seamless user experience, making it a robust and scalable alternative for online communication and collaboration."
+  description: "Developed a comprehensive Discord clone web app using Next.js, TypeScript, and Tailwind CSS, incorporating a diverse range of packages and libraries. This project boasts essential features synonymous with Discord, such as real-time messaging, voice chat, server creation, channel management, user authentication, and a sleek, intuitive UI. The implementation of cutting-edge technologies ensures a seamless user experience, making it a robust and scalable alternative for online communication and collaboration."
 };
 
 const coffeeShopAppProject = {
@@ -31,7 +31,7 @@ const coffeeShopAppProject = {
 };
 
 const liveChatWebAppProject = {
-  description: "Implemented a real-time chat application using React, Node.js, Express.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history."
+  description: "Developed a real-time chat application using React, Node.js, Express.js, Socket.IO, and MongoDB. The app includes features like user authentication, chat rooms, private messaging, and message history."
 };
 
 const moviesBookingAppProject = {
