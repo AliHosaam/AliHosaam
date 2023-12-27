@@ -14,7 +14,7 @@ const skills = {
   "Front-end Development": ["HTML", "CSS", "JavaScript", "TypeScript", "SocketIO", "React", "Next.js", "Bootstrap", "TailwindCSS", "Styled Components", "Redux", "and more"],
   "Back-end Development": ["Node.js", "Express", "PHP", "Java", "RESTful API Development", "GraphQL API Development", "and more"],
   "Database Technologies": ["MongoDB", "MySQL", "MS SQL"],
-  "Mobile App Development": ["Advanced React Native with Advanced JS"],
+  "Mobile App Development": ["Advanced React Native with Advanced JS and TS"],
   "Version Control": ["Git", "GitHub"],
   "Testing and Debugging": ["Jest", "Postman"]
 };
